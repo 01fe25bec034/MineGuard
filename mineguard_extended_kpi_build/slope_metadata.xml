@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Mark E. Reid</origin>
+        <origin>Dianne L. Brien</origin>
+        <origin>Richard G. LaHusen</origin>
+        <pubdate>20251215</pubdate>
+        <title>Landslide monitoring data for the Cleveland Corral landslide near U.S. Highway 50, El Dorado County, California</title>
+        <geoform>.csv, .png</geoform>
+        <onlink>https://doi.org/10.5066/P1P9DMFX</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Mark E. Reid</origin>
+            <pubdate>2024</pubdate>
+            <title>Cleveland Corral Landslide near U.S. Highway 50, El Dorado County, California</title>
+            <geoform>application/service</geoform>
+            <onlink>https://www.sciencebase.gov/catalog/item/65a821ecd34ebad3f34c9a4b</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Cleveland Corral landslide complex located near U.S. Highway 50 in El Dorado County, California is episodically active. This USGS data release presents graphical and tabular data from near real-time monitoring of the Cleveland Corral landslide conducted between 1997 and 2018. The monitoring data include 15-minute and daily measurements (in separate files) for four types of sensors on the landslide: 1) piezometers that recorded subsurface pore-water pressures at different depths and locations within the slide mass, 2) extensometers that recorded downslope displacement of the slide ground surface at different locations throughout the slide, 3) volumetric water content sensors that measured soil moisture at the toe of the landslide, and 4) one rain gauge that recorded precipitation, including rainfall and snowmelt. Descriptions of the sensors, their geographic locations, the time periods (monitoring time lines) when they were operating, and construction diagrams for the piezometers are included. Data were recorded using data-acquisition systems and radio telemetry developed by the USGS Volcano Hazards Program (Hadley and LaHusen, 1995). Files containing daily values enable rapid plotting of overall trends whereas 15-minute data can reveal detailed responses. Both sets of files are organized by water year, starting October 1; all times are Pacific Standard Time.
+
+This data release consists of:
+1) graphic of sensor locations (.png format),
+2) UTM locations of sensors prior to 1999 (.csv format)
+3) UTM locations of sensors in 2011 and 2017 (.csv format)
+4) graphic of monitoring time lines, showing individual sensor histories (.png format),
+5) 15-minute near-real time monitoring data (.csv format),
+6) daily monitoring data – daily maxima for rainfall and medians (of the 15-minute data) for other sensors (.csv format), and
+7) description of sensors (.csv format).
+8) piezometer construction diagrams (.png format),
+
+Additional information about the Cleveland Corral landslide complex and links to related data releases can be found on the ScienceBase project page https://www.sciencebase.gov/catalog/item/65a821ecd34ebad3f34c9a4b.
+
+References Cited
+Hadley, K.C. and LaHusen, R.G.,1995, Technical Manual for an Experimental Acoustic Flow Monitor (USGS Open-file Report 95-114, pp. 1–25). US Geological Survey, Reston, VA.
+
+Reid, M.E., and Brien, D.L., 2019, Debris-flow initiation promoted by extension within a slow-moving landslide, in Seventh International Conference on Debris-Flow Hazards Mitigation, p. 824-831.
+
+Reid, M.E., and LaHusen, R.G., 1998, Real-time monitoring of active landsides along Highway 50, El Dorado County: California Geology, v. 51, no. 3, p. 17-20.
+
+Spittler, T.E., and Wagner, D.L., 1998, Geology and slope stability along Highway 50: California Geology, v. 51, no. 3, p. 3-14.
+
+Sydnor, R.H., 1997, Reconnaissance engineering geology of the Mill Creek Landslide of January 24, 1997: California Geology, v. 50, no. 3, p. 74-83.</abstract>
+      <purpose>These data are part of a research project designed to investigate the behavior of the Cleveland Corral landslide, perched above U.S. Highway 50 in the Sierra Nevada of California. Landslide monitoring was performed in collaboration with the Eldorado National Forest, USDA.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19970322</begdate>
+          <enddate>20180925</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-120.422000</westbc>
+        <eastbc>-120.418000</eastbc>
+        <northbc>38.780600</northbc>
+        <southbc>38.776000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>landslides</themekey>
+        <themekey>hazards</themekey>
+        <themekey>ground failure</themekey>
+        <themekey>field monitoring</themekey>
+        <themekey>real-time monitoring and reporting</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:65d8f08fd34ec3e1801e3efc</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>El Dorado County</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mark E Reid</cntper>
+          <cntorg>ALASKA REGION: VOLCANO SCIENCE CENTER</cntorg>
+        </cntperp>
+        <cntpos>Research Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>350 North Akron Road</address>
+          <city>Moffett Field</city>
+          <state>CA</state>
+          <postal>94035</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-439-2891</cntvoice>
+        <cntemail>mreid@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://URLforBrowseGraphic</browsen>
+      <browsed>time line of sensor history for monitoring instrumentation</browsed>
+      <browset>.png</browset>
+    </browse>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>Logical accuracy tests were conducted to confirm measured values fell within expected ranges.  Landslide displacement measured by extensometers was verified by observation of fresh landslide features and annual measurement of GPS survey monuments (https://doi.org/10.5066/P9X62EV3).  During cold, winter storms, anomalous abrupt displacement followed by a return to the original measurement was inferred to be weighting of the extensometer cable due to snow loading.  These short periods of data were removed from the extensometer records.  Water level measurements were taken periodically and used to refine pressure transducer calibrations and check the logical accuracy of piezometer measurements.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record and the sensor description file carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Real-time monitoring data was converted from mV recorded by the data-acquisition system to real-world units (cm or volumetric water content) using conversions from laboratory and field calibrations.</procdesc>
+        <procdate>20220727</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>data table in .csv format</enttypl>
+        <enttypd>instrument name, location, parameter measured, instrument ID, units of measurement, start date, end date, manufacturer, model, serial number, construction type, ground to sensor diaphragm, notes, range of sensor</enttypd>
+        <enttypds>user produced</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>instrument name</attrlabl>
+        <attrdef>text description of sensor type, location, and abbreviation</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <udom>a text description of instrument name, indicating location, instrument type, and instrument ID</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>location</attrlabl>
+        <attrdef>descriptive location of sensor on landslide</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>toe site</edomv>
+            <edomvd>location on toe part of landslide</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>middle site</edomv>
+            <edomvd>location on upper part of landslide</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>upper site</edomv>
+            <edomvd>location on upper part of landslide</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>parameter measured</attrlabl>
+        <attrdef>text description of parameter measured</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>displacement</edomv>
+            <edomvd>landslide displacement measurement from extensometer</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>groundwater-pressure head</edomv>
+            <edomvd>groundwater-pressure head measurement from piezometer</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>precipitation</edomv>
+            <edomvd>precipitation measurement from rain gauge</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>volumetric water content</edomv>
+            <edomvd>volumetric water content measurement from soil moisture sensor</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>instrument ID</attrlabl>
+        <attrdef>abbreviation for instrument name, used for reference on plots and maps</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <udom>Short text abbreviation for instrument name, where: 
+instrument ID contains the following information: 
+1) three letter representation of instrument location,
+2) single letter representation of instrument type:
+E = extensometer, P = piezometer, M = moisture sensor, R = rain gauge,
+3) numbers indicate location (see associated graphic of sensor locations), based on a numeric representation of relative time when sensor was installed, and 
+4) the final letter indicates the generation of the sensor. 
+For example, over the period of record, one of the toe extensometers has had three temporally independent locations within close proximity.  E5 refers to extensometer number 5 and the letter indicates the relative time of existence.
+E5_A  indicates toe extensometer A, in operation from 12/30/2002 to 3/28/2005.
+E5_A was destroyed by a shallow failure and replaced by a new extensometer (E5_B) in the same general locality on the landslide.   Toe extensometer B (E5_B) was in operation between 3/28/2005 and 11/2/2006 when it was necessary to relocate the extensometer post. The new location is named toe extensometer C (E5_C) and was in operation between 11/30/2006 and 9/30/2016. Refer to the sensor description file for a complete list.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>instrument name</attrlabl>
+        <attrdef>text description of sensor type and locations</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <udom>a text description of instrument name, indicating location, instrument type, and instrument ID</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>units of measurement</attrlabl>
+        <attrdef>dimensional units of measurement</attrdef>
+        <attrdefs>International system of units</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>mm</edomv>
+            <edomvd>millimeters</edomvd>
+            <edomvds>International system of units</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>cm</edomv>
+            <edomvd>centimeters</edomvd>
+            <edomvds>International system of units</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>unitless</edomv>
+            <edomvd>no dimensional units, used for volumetric water content</edomvd>
+            <edomvds>International system of units</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>start_date</attrlabl>
+        <attrdef>date when sensor is first operational</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3/22/1997</rdommin>
+            <rdommax>5/18/2017</rdommax>
+            <attrunit>date</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>end_date</attrlabl>
+        <attrdef>date when sensor is no longer operational</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2/4/1998</rdommin>
+            <rdommax>9/25/2018</rdommax>
+            <attrunit>date</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>manufacturer</attrlabl>
+        <attrdef>manufacturer of sensor</attrdef>
+        <attrdefs>manufacturer of sensor</attrdefs>
+        <attrdomv>
+          <udom>This field specifies the manufacturer of the sensor.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>model</attrlabl>
+        <attrdef>model of sensor</attrdef>
+        <attrdefs>manufacturer of sensor</attrdefs>
+        <attrdomv>
+          <udom>This field specifies the model of the sensor.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>serial_number</attrlabl>
+        <attrdef>manufacturer's serial number, when available</attrdef>
+        <attrdefs>manufacturer of sensor</attrdefs>
+        <attrdomv>
+          <udom>This field specifies the serial number of the sensor.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>construction type</attrlabl>
+        <attrdef>type of construction for piezometer installation</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>direct burial - no open tube</edomv>
+            <edomvd>pressure transducer is not in open tube</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>open tube PVC</edomv>
+            <edomvd>PVC</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>open tube steel pipe</edomv>
+            <edomvd>pressure transducer is located in an open tube</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ground to sensor diaphragm (m)</attrlabl>
+        <attrdef>measurement of depth to sensor diaphragm</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <udom>measurement of depth to sensor diaphragm</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>notes</attrlabl>
+        <attrdef>miscellaneous notes related to sensor and sensor location</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <udom>Text information regarding sensor or sensor history.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P1P9DMFX</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20251215</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Dianne L Brien</cntper>
+          <cntorg>ALASKA REGION: VOLCANO SCIENCE CENTER</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>350 North Akron Road</address>
+          <city>Moffett Field</city>
+          <state>CA</state>
+          <postal>94035</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-439-2208</cntvoice>
+        <cntemail>dbrien@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

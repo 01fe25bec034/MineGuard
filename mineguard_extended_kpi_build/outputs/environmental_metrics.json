@@ -1,0 +1,17 @@
+{
+  "task": "environmental_threshold_forecast",
+  "horizon_seconds": 900,
+  "operational_limits": {
+    "TP1721_hi": 27.0,
+    "TP1711_hi": 30.3,
+    "RH1722_hi": 59.0,
+    "RH1712_hi": 81.0,
+    "AN422_lo": 1.3,
+    "AN423_lo": 1.1
+  },
+  "accuracy": 0.8790479927564666,
+  "precision": 0.9022807166751715,
+  "recall": 0.8055931010742237,
+  "f1": 0.8512000278143287,
+  "note": "Control limits are data-derived operational limits, not legal/regulatory thresholds. Replace with site-approved limits for compliance use."
+}

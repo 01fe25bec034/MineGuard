@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large local datasets
+methane_data.csv
+mineguard_target.csv
+.DS_Store

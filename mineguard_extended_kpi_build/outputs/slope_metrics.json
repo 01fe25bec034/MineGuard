@@ -1,0 +1,31 @@
+{
+  "task": "slope_movement_escalation_benchmark",
+  "target_note": "Derived proxy target: future displacement-like change exceeds 3x local baseline volatility.",
+  "feature_columns": [
+    "mid_downslope_extensometer_cm_mid_E2_A",
+    "mid_deep_buried_mid_pressure_transducer_cm_mid_P3",
+    "mid_precipitation_mm_mid_R",
+    "mid_cumprecipitation_mm_mid_R",
+    "mid_upslope_extensometer_cm_mid_E1",
+    "mid_downslope_extensometer_cm_mid_E2_B",
+    "mid_midprecipitation_mm_mid_R",
+    "mid_precipitation_mm_mid_R.1",
+    "upp_upslope_extensometer_cm_upp_E6",
+    "upp_downslope_extensometer_cm_upp_E7",
+    "toe_downslope_extensometer_cm_toe_E3",
+    "toe_west_extensometerA_cm_toe_E4_A",
+    "toe_west_extensometerB_cm_toe_E4_B",
+    "toe_extensometerA_cm_toe_E5_A",
+    "toe_extensometerB_cm_toe_E5_B",
+    "toe_extensometerC_cm_toe_E5_C",
+    "toe_volumetric_water_contentA_toe_M1_A",
+    "toe_volumetric_water_contentB_toe_M1_B"
+  ],
+  "threshold": 0.003840330630748571,
+  "accuracy": 0.7781818181818182,
+  "precision": 0.03208556149732621,
+  "recall": 0.08695652173913043,
+  "f1": 0.046875,
+  "roc_auc": 0.52769226444004,
+  "test_rows": 1100
+}

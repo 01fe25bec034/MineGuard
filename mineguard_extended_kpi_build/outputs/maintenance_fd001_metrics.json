@@ -1,0 +1,9 @@
+{
+  "task": "predictive_maintenance_rul_benchmark",
+  "subset": "FD001",
+  "mae_cycles": 14.874879311310917,
+  "rmse_cycles": 19.383088805390337,
+  "predicted_availability_proxy": 0.79,
+  "availability_rule": ">30 predicted cycles remaining",
+  "note": "NASA C-MAPSS is an equipment prognostics benchmark, not mine-specific machinery; do not present as mine-site availability validation."
+}

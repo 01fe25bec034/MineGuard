@@ -1,0 +1,19 @@
+{
+  "task": "slope_high_movement_60min_benchmark",
+  "target_note": "Positive = future 60-minute GPS horizontal displacement increase at or above the 90th percentile of the training period.",
+  "movement_threshold_m": 0.007400000000000073,
+  "decision_threshold": 0.06,
+  "train_rows": 24425,
+  "validation_rows": 5234,
+  "test_rows": 5235,
+  "train_positive_rate": 0.10010235414534288,
+  "validation_positive_rate": 0.13641574321742453,
+  "test_positive_rate": 0.13925501432664755,
+  "accuracy": 0.2941738299904489,
+  "precision": 0.1403976721629486,
+  "recall": 0.7942386831275721,
+  "f1": 0.2386152895116423,
+  "roc_auc": 0.5108874800068435,
+  "pr_auc": 0.1435178032579498,
+  "feature_count": 73
+}

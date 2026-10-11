@@ -1,0 +1,301 @@
+Timestamp_s,EAR,Blinks_min,Label
+0,0.28,16,Slight fatigue
+2,0.242,19.5,Fatigue
+4,0.289,18.4,Slight fatigue
+6,0.33,14.8,Awake
+8,0.236,21.1,Fatigue
+10,0.236,21.4,Fatigue
+12,0.33,16.2,Awake
+14,0.296,15.1,Slight fatigue
+16,0.222,23.3,Fatigue
+18,0.283,17,Slight fatigue
+20,0.222,21.8,Fatigue
+22,0.222,24.4,Fatigue
+24,0.265,20.5,Slight fatigue
+26,0.135,30.8,Micro-sleep
+28,0.147,30.9,Micro-sleep
+30,0.216,22.7,Drowsy
+32,0.189,26.2,Drowsy
+34,0.269,17.9,Slight fatigue
+36,0.196,25,Drowsy
+38,0.165,26.5,Micro-sleep
+40,0.33,13.8,Awake
+42,0.236,22.3,Fatigue
+44,0.254,18,Fatigue
+46,0.165,31,Micro-sleep
+48,0.217,20.6,Drowsy
+50,0.257,17,Fatigue
+52,0.181,27.8,Drowsy
+54,0.273,19.8,Slight fatigue
+56,0.214,24.1,Drowsy
+58,0.232,22.7,Fatigue
+60,0.214,22.9,Drowsy
+62,0.33,11.8,Awake
+64,0.249,20.2,Fatigue
+66,0.187,23.7,Drowsy
+68,0.299,18,Slight fatigue
+70,0.177,25.6,Micro-sleep
+72,0.263,17.3,Slight fatigue
+74,0.132,28.8,Micro-sleep
+76,0.17,27.2,Micro-sleep
+78,0.262,17.9,Slight fatigue
+80,0.294,14.8,Slight fatigue
+82,0.26,19.7,Slight fatigue
+84,0.243,21,Fatigue
+86,0.232,20.4,Fatigue
+88,0.161,26.2,Micro-sleep
+90,0.207,23.9,Drowsy
+92,0.222,19.3,Fatigue
+94,0.313,12.1,Awake
+96,0.271,16.9,Slight fatigue
+98,0.144,28,Micro-sleep
+100,0.269,19.1,Slight fatigue
+102,0.227,24.8,Fatigue
+104,0.209,25,Drowsy
+106,0.287,16.7,Slight fatigue
+108,0.312,15,Awake
+110,0.306,13.5,Awake
+112,0.2,24,Drowsy
+114,0.231,20.9,Fatigue
+116,0.27,19.1,Slight fatigue
+118,0.309,13.7,Awake
+120,0.221,23.3,Fatigue
+122,0.239,24,Fatigue
+124,0.184,25.1,Drowsy
+126,0.178,26.5,Micro-sleep
+128,0.299,17.5,Slight fatigue
+130,0.33,12.8,Awake
+132,0.246,20.8,Fatigue
+134,0.31,15.2,Awake
+136,0.272,18.5,Slight fatigue
+138,0.211,21.6,Drowsy
+140,0.272,18.3,Slight fatigue
+142,0.33,14.6,Awake
+144,0.248,23.1,Fatigue
+146,0.33,15.5,Awake
+148,0.12,34.7,Micro-sleep
+150,0.299,14.5,Slight fatigue
+152,0.255,21.3,Fatigue
+154,0.232,21.8,Fatigue
+156,0.256,23.9,Fatigue
+158,0.131,27.9,Micro-sleep
+160,0.237,19.4,Fatigue
+162,0.271,17.1,Slight fatigue
+164,0.33,10,Awake
+166,0.219,21.4,Drowsy
+168,0.201,22.4,Drowsy
+170,0.22,22.7,Drowsy
+172,0.305,16.3,Awake
+174,0.27,22.2,Slight fatigue
+176,0.218,24.4,Drowsy
+178,0.281,16.4,Slight fatigue
+180,0.256,17.7,Fatigue
+182,0.308,16.3,Awake
+184,0.208,20.7,Drowsy
+186,0.23,25.2,Fatigue
+188,0.226,24.2,Fatigue
+190,0.162,26.1,Micro-sleep
+192,0.268,15.2,Slight fatigue
+194,0.266,21.5,Slight fatigue
+196,0.25,19.7,Fatigue
+198,0.236,23.6,Fatigue
+200,0.165,23.6,Micro-sleep
+202,0.225,20.8,Fatigue
+204,0.229,21.7,Fatigue
+206,0.202,23.9,Drowsy
+208,0.24,19.9,Fatigue
+210,0.274,19.3,Slight fatigue
+212,0.33,11.5,Awake
+214,0.26,18.9,Slight fatigue
+216,0.265,19,Slight fatigue
+218,0.246,21.4,Fatigue
+220,0.135,30.6,Micro-sleep
+222,0.248,17.9,Fatigue
+224,0.254,16.6,Fatigue
+226,0.33,16.2,Awake
+228,0.238,21.6,Fatigue
+230,0.268,17.1,Slight fatigue
+232,0.248,23.3,Fatigue
+234,0.18,25.8,Micro-sleep
+236,0.319,16.9,Awake
+238,0.295,16.5,Slight fatigue
+240,0.297,20.3,Slight fatigue
+242,0.195,27.9,Drowsy
+244,0.33,13.1,Awake
+246,0.166,28.7,Micro-sleep
+248,0.285,18.5,Slight fatigue
+250,0.33,16.3,Awake
+252,0.191,22.8,Drowsy
+254,0.216,24.1,Drowsy
+256,0.256,21.6,Fatigue
+258,0.22,18.9,Drowsy
+260,0.157,25.1,Micro-sleep
+262,0.254,15.6,Fatigue
+264,0.186,24.6,Drowsy
+266,0.278,19.2,Slight fatigue
+268,0.195,27.4,Drowsy
+270,0.33,13.7,Awake
+272,0.203,27,Drowsy
+274,0.231,18.8,Fatigue
+276,0.299,12.7,Slight fatigue
+278,0.176,25.8,Micro-sleep
+280,0.264,19.7,Slight fatigue
+282,0.328,13.7,Awake
+284,0.154,23.6,Micro-sleep
+286,0.261,18.9,Slight fatigue
+288,0.266,16.1,Slight fatigue
+290,0.297,17.6,Slight fatigue
+292,0.176,26.7,Micro-sleep
+294,0.171,24.5,Micro-sleep
+296,0.281,16.5,Slight fatigue
+298,0.268,16.5,Slight fatigue
+300,0.265,18.7,Slight fatigue
+302,0.271,20.2,Slight fatigue
+304,0.209,21.3,Drowsy
+306,0.264,19.9,Slight fatigue
+308,0.268,17.5,Slight fatigue
+310,0.207,21.8,Drowsy
+312,0.33,13.4,Awake
+314,0.278,15.7,Slight fatigue
+316,0.179,24.6,Micro-sleep
+318,0.289,14.5,Slight fatigue
+320,0.192,28.6,Drowsy
+322,0.297,16.3,Slight fatigue
+324,0.32,13,Awake
+326,0.201,24.4,Drowsy
+328,0.308,15.2,Awake
+330,0.275,17.6,Slight fatigue
+332,0.299,17.3,Slight fatigue
+334,0.33,15.1,Awake
+336,0.235,20.1,Fatigue
+338,0.205,22.5,Drowsy
+340,0.197,23.7,Drowsy
+342,0.201,19.3,Drowsy
+344,0.245,17.3,Fatigue
+346,0.27,21.1,Slight fatigue
+348,0.267,22,Slight fatigue
+350,0.3,15.5,Slight fatigue
+352,0.251,21.1,Fatigue
+354,0.33,14.2,Awake
+356,0.234,27.4,Fatigue
+358,0.33,15.8,Awake
+360,0.288,16.7,Slight fatigue
+362,0.199,22.2,Drowsy
+364,0.186,21.9,Drowsy
+366,0.279,18.1,Slight fatigue
+368,0.237,19.6,Fatigue
+370,0.293,13.7,Slight fatigue
+372,0.278,16.4,Slight fatigue
+374,0.246,18.2,Fatigue
+376,0.199,27.4,Drowsy
+378,0.159,29,Micro-sleep
+380,0.223,22.1,Fatigue
+382,0.301,18.8,Awake
+384,0.263,19.1,Slight fatigue
+386,0.175,24.3,Micro-sleep
+388,0.26,22.2,Slight fatigue
+390,0.273,19.2,Slight fatigue
+392,0.197,22.2,Drowsy
+394,0.259,18.9,Fatigue
+396,0.253,18,Fatigue
+398,0.181,22.7,Drowsy
+400,0.271,20.1,Slight fatigue
+402,0.284,21.1,Slight fatigue
+404,0.315,12,Awake
+406,0.313,16.1,Awake
+408,0.167,25.3,Micro-sleep
+410,0.194,23.5,Drowsy
+412,0.281,16.3,Slight fatigue
+414,0.281,15.8,Slight fatigue
+416,0.281,17.6,Slight fatigue
+418,0.33,11.9,Awake
+420,0.284,17.8,Slight fatigue
+422,0.318,14.4,Awake
+424,0.307,14.9,Awake
+426,0.289,15.1,Slight fatigue
+428,0.231,20.4,Fatigue
+430,0.296,17.9,Slight fatigue
+432,0.204,24.7,Drowsy
+434,0.236,19.2,Fatigue
+436,0.221,22.5,Fatigue
+438,0.255,21.1,Fatigue
+440,0.33,10.3,Awake
+442,0.138,30,Micro-sleep
+444,0.291,15.4,Slight fatigue
+446,0.153,28.9,Micro-sleep
+448,0.222,20.7,Fatigue
+450,0.315,11.2,Awake
+452,0.254,16.4,Fatigue
+454,0.185,25.3,Drowsy
+456,0.207,24,Drowsy
+458,0.291,14.9,Slight fatigue
+460,0.206,24.8,Drowsy
+462,0.263,15.6,Slight fatigue
+464,0.253,19.6,Fatigue
+466,0.211,20.7,Drowsy
+468,0.33,12.3,Awake
+470,0.288,17.1,Slight fatigue
+472,0.128,28,Micro-sleep
+474,0.261,18.3,Slight fatigue
+476,0.21,25.2,Drowsy
+478,0.301,14.8,Awake
+480,0.202,25.5,Drowsy
+482,0.243,18.3,Fatigue
+484,0.28,18.6,Slight fatigue
+486,0.302,18.7,Awake
+488,0.178,20.8,Micro-sleep
+490,0.23,20,Fatigue
+492,0.222,23.4,Fatigue
+494,0.211,22.7,Drowsy
+496,0.33,14.3,Awake
+498,0.274,16.8,Slight fatigue
+500,0.174,26.2,Micro-sleep
+502,0.305,15.3,Awake
+504,0.33,15.9,Awake
+506,0.312,15.6,Awake
+508,0.159,28,Micro-sleep
+510,0.221,21.5,Fatigue
+512,0.326,12.9,Awake
+514,0.208,22.5,Drowsy
+516,0.277,18.7,Slight fatigue
+518,0.296,15.4,Slight fatigue
+520,0.194,25,Drowsy
+522,0.246,24.4,Fatigue
+524,0.12,32.1,Micro-sleep
+526,0.189,24.3,Drowsy
+528,0.235,23.6,Fatigue
+530,0.175,25.2,Micro-sleep
+532,0.33,10,Awake
+534,0.164,24.8,Micro-sleep
+536,0.224,18.4,Fatigue
+538,0.258,18.7,Fatigue
+540,0.33,13.6,Awake
+542,0.164,30.2,Micro-sleep
+544,0.32,15.1,Awake
+546,0.251,19.5,Fatigue
+548,0.191,26.4,Drowsy
+550,0.278,13.4,Slight fatigue
+552,0.262,19.5,Slight fatigue
+554,0.214,24.4,Drowsy
+556,0.254,16.7,Fatigue
+558,0.227,24.1,Fatigue
+560,0.257,20.1,Fatigue
+562,0.29,16,Slight fatigue
+564,0.33,14.9,Awake
+566,0.176,30.5,Micro-sleep
+568,0.33,14,Awake
+570,0.133,29.9,Micro-sleep
+572,0.241,19.8,Fatigue
+574,0.285,15.5,Slight fatigue
+576,0.267,20.3,Slight fatigue
+578,0.213,21.3,Drowsy
+580,0.238,21.1,Fatigue
+582,0.22,21.4,Fatigue
+584,0.215,23.8,Drowsy
+586,0.301,16.6,Awake
+588,0.271,20.4,Slight fatigue
+590,0.208,22.3,Drowsy
+592,0.304,15.1,Awake
+594,0.268,16.6,Slight fatigue
+596,0.299,15.2,Slight fatigue
+598,0.288,17.7,Slight fatigue
